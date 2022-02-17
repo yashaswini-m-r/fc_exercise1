@@ -1,0 +1,32 @@
+h1{
+color: red;
+}
+
+body{
+  background-color: #F7ECDE;
+}
+
+img:hover{
+  background-color: #B97A95;
+}
+
+p{
+  font-family: verdana;
+  color: #21325E;
+}
+
+.chocolates{
+  background-color: #EDCDBB;
+}
+
+.doughnut{
+  background-color: #F9C5D5;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+#heading{
+  color: #03045E;
+}
